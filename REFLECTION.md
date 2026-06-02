@@ -119,5 +119,5 @@ Project 3: Image Pixels   → CNN → Class Label     (visual)
 ---
 
 *Submitted by: Egwuatu Chibuike Dominion*
-*Date: ___________________________*
+*Date: 29/05/2026*
 *DecodeLabs Intern | Batch 2026 | AI Engineering Track*
