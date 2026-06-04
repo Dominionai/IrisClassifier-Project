@@ -28,9 +28,9 @@
 
 > 💡 *Add a GIF here later for maximum impact (very important for recruiters)*
 
-```md
+
 ![Demo](assets/demo.gif)
-```
+
 
 ---
 
