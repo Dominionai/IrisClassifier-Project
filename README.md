@@ -26,9 +26,6 @@
 
 ## 📸 Demo Preview
 
-> 💡 *Add a GIF here later for maximum impact (very important for recruiters)*
-
-
 ![Demo](assets/demo.gif)
 
 
@@ -220,7 +217,7 @@ Deployed on **Streamlit Cloud**
 ## 👨‍💻 Author
 
 **Egwuatu Chibuike Dominion**
-AI Developer | Web Developer
+AI Engineer
 
 ---
 
