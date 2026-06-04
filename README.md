@@ -261,7 +261,7 @@ iris-classifier/
 **Egwuatu Chibuike Dominion**
 DecodeLabs Batch 2026 — Project 2
 
-* 💻 AI / Web Developer
+* 💻 AI Engineer
 * 🎯 Focus: AI-powered applications
 
 ---
@@ -269,8 +269,8 @@ DecodeLabs Batch 2026 — Project 2
 ## 📧 Contact
 
 * Email: **[chibuikedominion7@gmail.com](mailto:chibuikedominion7@gmail.com)**
-* GitHub: yourusername
-* LinkedIn: yourprofile
+* GitHub: [yourusername](https://github.com/Dominionai/IrisClassifier-Project/edit/main/README.md)
+* LinkedIn: [yourprofile](https://www.linkedin.com/in/chibuikedominion/)
 
 ---
 
